@@ -14,5 +14,3 @@ In such a world, those who remain uncorrupted by wickedness must rely upon monst
 Light has failed, darkness is ascendant—only those bearing the forms of monsters can stand against the tide of the Witches’ evil. The Accursed are this world’s only hope—they must learn to embrace their curse or to fight against it, and find some way to free themselves forever of their Witchmark.
 
 This is the world of Accursed.
-
-OH... and EAD.
