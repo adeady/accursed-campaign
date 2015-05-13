@@ -8,26 +8,28 @@ The default settings are recommended when installing all of the above.
 
 Log into github in the windows client
 
-![screenshot]
+![Logging into github](images/GithubLogin.png)
 
 Clone the repository.  Pay attention to the directory it is copied to.  By default it seems to put it in `C:\Users\<username>\Documents\GitHub`
 
-![screenshot]
+![How to clone a repository](images/GithubClone.png)
 
 Open the folder in atom (or your favorite text editor)
 
-![screenshot]
+![Open folder in atom](images/OpenFolder.png)
 
 Start making changes and adding files.
 
 When you are done, navigate to the Windows Github Client.  Click the down arrow next to uncommitted changes
 
-![screenshot]
+![Where to find uncommitted changes](images/UncommitedChanges.png)
 
 Here, review the changes and check all changes you would like to "push to remote" or see on our shared site (1).  When you are happy, write a short description of the changes you made (2).  Then commit the changes (3).
 
-![screenshot]
+![How to commit changes in Github for Windows](images/CommitChanges.png)
 
 Next "push" or sync your changes by pressing the sync button in the upper right corner.
 
-![screenshot]
+![Sync changes to remote repository](images/SyncChanges.png)
+
+Thanks for reading.
