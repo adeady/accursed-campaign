@@ -1,7 +1,7 @@
 # Site settings
 title: The Princess and the Log
 email: ead@gmail.com
-description: A description here
+description: Dark fantasy where the cursed servants of evil witches battle against their masters to save the good people
 baseurl: "" # the subpath of your site, e.g. /blog/
 url: "http://yourdomain.com" # the base hostname & protocol for your site
 twitter_username: jekyllrb
