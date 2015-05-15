@@ -1,11 +1,55 @@
-# Site settings
-title: The Princess and the Log
-email: ead@gmail.com
-description: Dark fantasy where the cursed servants of evil witches battle against their masters to save the good people
-baseurl: "/accursed-campaign" # the subpath of your site, e.g. /blog/
-url: "http://yourdomain.com" # the base hostname & protocol for your site
-twitter_username: jekyllrb
-github_username:  jekyll
+# Site wide configuration
 
-# Build settings
-markdown: kramdown
+title: The Princess and the Log
+locale: en_US
+description: Dark fantasy where the cursed servants of evil witches battle against their masters to save the good people.
+logo: accursed-logo.png
+search: true
+url: http://localhost:4000
+baseurl: "/accursed-campaign"
+
+# Jekyll configuration
+
+permalink:   /:categories/:title/
+markdown:    kramdown
+highlighter: pygments
+sass:
+  sass_dir: _sass
+  style: compressed
+gems:
+  - jekyll-sitemap
+
+kramdown:
+  auto_ids: true
+  footnote_nr: 1
+  entity_output: as_char
+  toc_levels: 1..2
+  use_coderay: false
+
+include: [".htaccess"]
+exclude: ["lib", "config.rb", "Capfile", "config", "log", "Rakefile", "Rakefile.rb", "tmp", "less", "*.sublime-project", "*.sublime-workspace", "test", "spec", "Gruntfile.js", "package.json", "node_modules", "Gemfile", "Gemfile.lock", "LICENSE", "README.md", "vendor"]
+
+
+# Site owner
+owner:
+  name: Angela Deady
+  avatar: bio-photo.jpg
+  email: ead@gmail.com
+  disqus-shortname:
+  twitter: #username
+  facebook: #username
+  github: adeady
+  stackexchange: #http://stackoverflow.com/users/123456/username
+  linkedin: #username
+  instagram: #username
+  flickr: #username
+  tumblr: #username
+  pinterest: #username
+  weibo: #userid
+  google:
+    plus: #username
+    analytics:
+    verify:
+    ad-client:
+    ad-slot:
+  bing-verify:
