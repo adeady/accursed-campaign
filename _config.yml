@@ -5,7 +5,7 @@ locale: en_US
 description: Dark fantasy where the cursed servants of evil witches battle against their masters to save the good people.
 logo: accursed-logo.png
 search: true
-url: http://localhost:4000
+url: /
 baseurl: "/accursed-campaign"
 
 # Jekyll configuration
