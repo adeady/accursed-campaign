@@ -1,0 +1,19 @@
+# Site navigation links
+
+- title: About
+  url: /about/
+
+- title: Articles
+  url: /articles/
+
+- title: Blog
+  url: /blog/
+
+- title: Site Setup
+  url: /getting-started/
+
+- title: Obsidian Portal
+  url: https://the-accursed.obsidianportal.com/dashboard
+
+- title: Search
+  url: /search/
